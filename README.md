@@ -138,6 +138,10 @@ A DVE environment will open.
 
 ## DVE Waveform Verification
 
+
+<img width="1600" height="867" alt="EXPERIMENT5" src="https://github.com/user-attachments/assets/930cd2af-5b98-4130-b0f3-90c9055d8ad4" />
+
+
 In DVE:
 ●	Open the testbench hierarchy.
 
